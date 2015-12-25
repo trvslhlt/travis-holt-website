@@ -42,7 +42,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #ff1e78;
+  color: #030202;
 }
 .light {
   font-weight: 400;
@@ -120,7 +120,7 @@ a:focus {
   text-align: center;
   color: white;
   background: url(../img/david-background.jpg) no-repeat bottom center scroll;
-  background-color: #ffedf4;
+  background-color: #aba0a4;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -220,7 +220,7 @@ a:focus {
   padding: 50px 0;
   color: white;
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-  background-color: #ffedf4;
+  background-color: #aba0a4;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -253,16 +253,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #0b0004;
-  color: #0b0004;
+  border: 1px solid #3b3034;
+  color: #3b3034;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #0b0004;
+  border: 1px solid #3b3034;
   outline: none;
-  color: #0b0004;
-  background-color: #0b0004;
+  color: #aba0a4;
+  background-color: #3b3034;
 }
 ul.banner-social-buttons {
   margin-top: 0;
