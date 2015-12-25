@@ -3,7 +3,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: #ffedf4;
+  background-color: #aba0a4;
 }
 html {
   width: 100%;
@@ -34,7 +34,7 @@ p {
   }
 }
 a {
-  color: #ff84b5;
+  color: #3b3034;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -52,7 +52,7 @@ a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: lowercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #ffedf4;
+  background-color: #aba0a4;
 }
 .navbar-custom .navbar-brand {
   font-weight: 700;
@@ -108,7 +108,7 @@ a:focus {
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #ffedf4;
+    background: #aba0a4;
     border-bottom: 0;
   }
 }
@@ -253,16 +253,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #ff84b5;
-  color: #ff84b5;
+  border: 1px solid #0b0004;
+  color: #0b0004;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #ff84b5;
+  border: 1px solid #0b0004;
   outline: none;
-  color: #ffedf4;
-  background-color: #ff84b5;
+  color: #0b0004;
+  background-color: #0b0004;
 }
 ul.banner-social-buttons {
   margin-top: 0;
