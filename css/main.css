@@ -1,0 +1,42 @@
+html, body {
+	height: 100vh;
+	margin: 0px;
+	padding: 0px;
+	background: #a0a0ad;
+}
+
+.section {
+	min-height: 100%;
+	background-size: cover;
+	flex: 1;
+	/*background: darkgray;*/
+}
+
+#intro {
+	background: url(../img/david.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#about {
+	background: url(../img/flock.png) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;}
+
+#contact {
+	background: url(../img/ulam.png) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+#home-device {
+	/*background-image: "../img/site_logo.png";*/
+	width: 50px;
+	height: 100%;
+}

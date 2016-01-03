@@ -3,7 +3,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: #aba0a4;
+  background-color: #a0a0ad;
 }
 html {
   width: 100%;
@@ -34,7 +34,7 @@ p {
   }
 }
 a {
-  color: #3b3034;
+  color: #a0a0ad;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -42,7 +42,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #030202;
+  color: #030304;
 }
 .light {
   font-weight: 400;
@@ -52,7 +52,7 @@ a:focus {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: lowercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: #aba0a4;
+  background-color: #a0a0ad;
 }
 .navbar-custom .navbar-brand {
   font-weight: 700;
@@ -108,7 +108,7 @@ a:focus {
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #aba0a4;
+    background: #a0a0ad;
     border-bottom: 0;
   }
 }
@@ -116,11 +116,11 @@ a:focus {
   display: table;
   width: 100%;
   height: auto;
-  padding: 100px 0;
+  padding: 0px 0;
   text-align: center;
   color: white;
   background: url(../img/david-background.jpg) no-repeat bottom center scroll;
-  background-color: #aba0a4;
+  background-color: #a0a0ad;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -131,7 +131,8 @@ a:focus {
   vertical-align: middle;
 }
 .intro .intro-body .brand-heading {
-  font-size: 40px;
+  /*font-size: 40px;*/
+  color: #a0a0ad;
 }
 .intro .intro-body .intro-text {
   font-size: 18px;
@@ -142,7 +143,7 @@ a:focus {
     padding: 0;
   }
   .intro .intro-body .brand-heading {
-    font-size: 100px;
+    font-size: 150px;
   }
   .intro .intro-body .intro-text {
     font-size: 26px;
@@ -220,7 +221,18 @@ a:focus {
   padding: 50px 0;
   color: white;
   background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
-  background-color: #aba0a4;
+  background-color: #a0a0ad;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.about-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+  background-color: #a0a0ad;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -253,16 +265,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #3b3034;
-  color: #3b3034;
+  border: 1px solid #a0a0ad;
+  color: #a0a0ad;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #3b3034;
+  border: 1px solid #a0a0ad;
   outline: none;
-  color: #aba0a4;
-  background-color: #3b3034;
+  color: #a0a0ad;
+  background-color: #a0a0ad;
 }
 ul.banner-social-buttons {
   margin-top: 0;
